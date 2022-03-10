@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\pc\Desktop\유니티 관련 공부\C#공부\2022_UnityC_Study\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
